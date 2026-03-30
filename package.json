@@ -1,8 +1,7 @@
 "scripts": {
   "dev": "...",
   "build": "...", 
-  // 在这里添加 postinstall
-  "postinstall": "chmod -R 755 node_modules/.bin"
+   "postinstall": "chmod -R 755 node_modules/.bin"
 }
 {
   "name": "writing-master",
